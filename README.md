@@ -1,4 +1,8 @@
 # pdf_merger
+
+## Instructions
+Create two folders named public and upload, public will hold the merged files and upload will hold the files to be merged after being uploded on the server
+
 Title: PDF Merger Tool
 
 Introduction:
